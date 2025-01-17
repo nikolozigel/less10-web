@@ -1,0 +1,79 @@
+.header {
+    max-width: 1440px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;  
+    align-items: center; 
+}
+.ul-el {
+    display: flex;
+    width: 252px;
+    justify-content:space-between;
+
+}
+.logo-image {
+    margin-right: 828px;
+}
+.container {
+    margin-bottom: 33px;
+}
+
+.bg-img {
+    background-image: url('../images/Rectangle1.png');
+    height: 550px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg-image {
+    background-image: url('../images/Rectangle3.png');
+    width: 440px;
+    height: 404px;
+    background-repeat: no-repeat;
+}
+.left-side {
+    width: 532px;
+    margin-right: 177.5px;
+}
+.right-side {
+    width: 440px;
+    height: 404px;    
+}    
+.tittle-1 {
+    font-size: 50px;
+    color: #fff;
+    margin-bottom: 25px;
+}
+.info-1 {
+    font-size: 16px;
+    color: #fff;
+}
+.info-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.tittle-2 {
+    margin-right: 107px;
+    font-size: 30px;
+    color: black;
+}
+.info-3 {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.tittle-3 {
+    font-size: 20px;
+    color: #FA793C;
+    margin-bottom: 8px;
+
+}
+.paragraph {
+    font-size: 16px;
+    color: #000000;
+    margin-bottom: 10px;
+}
